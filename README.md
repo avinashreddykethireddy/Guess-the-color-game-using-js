@@ -1,1 +1,1 @@
-"#Small-COlor-Guessing-using-javascript" 
+Small-COlor-Guessing-using-javascript
